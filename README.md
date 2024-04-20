@@ -1,4 +1,4 @@
-# Python_Week_2
+# Python Learning 2
 
 ## Function
 A python program is made of many lines of code, stored in a file with a name like "example.py". It's natural to have a way to divide the lines code up into sensible sub-parts, and these are called functions. Almost all the code you work with in Python is inside a function.
